@@ -42,13 +42,20 @@ AddEventHandler('playerConnecting', function(name, reject, deferrals)
 end)
 
 CreateThread(function()
-	while true do
-		PerformHttpRequest(bannedListUrl, function(statusCode, response, headers)
+    PerformHttpRequest(bannedListUrl, function(statusCode, response, headers)
+        if statusCode == 200 then
+            bannedList = json.decode(response)
+            print('FIVEM 国服联BAN系统：已加载到' .. tostring(#bannedList) .. '条封禁数据，并将会持续监听最新数据')
+        end
+    end, "GET", "", { ["Content-Type"] = "application/json" })
+
+    while true do
+        PerformHttpRequest(bannedListUrl, function(statusCode, response, headers)
             if statusCode == 200 then
                 bannedList = json.decode(response)
             end
-        end, "GET", "", {["Content-Type"] = "application/json"})
+        end, "GET", "", { ["Content-Type"] = "application/json" })
 
-		Wait(1000 * 10)
-	end
+        Wait(1000 * 60 * 10)
+    end
 end)
