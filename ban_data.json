@@ -42,5 +42,9 @@
     {
         "license": "steam:11000014a5029fc",
         "reason": "外挂、刷车、制造爆炸"
+    },
+    {
+        "license": "license:5978db3ced3749cff3cb07ade66cc38e6399f094",
+        "reason": "自瞄"
     }
 ]
