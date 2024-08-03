@@ -1,6 +1,6 @@
 local bannedList = {}
 local bannedListUrl = 'https://raw.githubusercontent.com/E9C50/FivemCnBan/master/ban_data.json'
--- local bannedListUrl = 'https://cnban.gtafivem.cn:2957/ban_data.json' -- 放置部分服务器无法访问GitHub，首选GitHub，备用这个地址（数据是同步一致的）
+-- local bannedListUrl = 'https://cnban.gtafivem.cn:2957/ban_data.json' -- 防止部分服务器无法访问GitHub，首选GitHub，备用这个地址（数据是同步一致的）
 
 function getIdentifierByType(identifiers, type)
     for _, v in pairs(identifiers) do
