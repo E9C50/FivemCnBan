@@ -50,5 +50,13 @@
     {
         "license": "license:3501d8960bd3bf2ed0ff52d90690d4701dbf4575",
         "reason": "外挂程序"
+    },
+    {
+        "license": "license:e8c3b4681a939c81fa9b3efc2ddfd37e20352116",
+        "reason": "炸服"
+    },
+    {
+        "license": "license2:cc7da6b7e3c81fca8ae9913059c81f06ac4dffb3",
+        "reason": "炸服"
     }
 ]
