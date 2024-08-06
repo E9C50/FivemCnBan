@@ -86,5 +86,13 @@
     {
         "license": "xbl:2535413043056757",
         "reason": "使用自瞄，反作弊多次录屏"
+    },
+    {
+        "license": "license:c17087565e05c0efe8c7c2d085cb4cd925d6d53e",
+        "reason": "炸服，使用外挂给玩家套模型，令玩家自燃"
+    },
+    {
+        "license": "license2:c17087565e05c0efe8c7c2d085cb4cd925d6d53e",
+        "reason": "炸服，使用外挂给玩家套模型，令玩家自燃"
     }
 ]
