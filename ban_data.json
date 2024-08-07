@@ -94,5 +94,13 @@
     {
         "license": "license2:c17087565e05c0efe8c7c2d085cb4cd925d6d53e",
         "reason": "炸服，使用外挂给玩家套模型，令玩家自燃"
+    },
+    {
+        "license": "license:cd622ce87f0b5f6deed1909d4226f9eefebf487f",
+        "reason": "套模型"
+    },
+    {
+        "license": "license:49cb8097422fcf564694b9a8fed42daeefcf2f8b",
+        "reason": "套模型"
     }
 ]
