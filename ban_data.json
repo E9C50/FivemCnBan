@@ -102,5 +102,13 @@
     {
         "license": "license:49cb8097422fcf564694b9a8fed42daeefcf2f8b",
         "reason": "套模型"
+    },
+    {
+        "license": "license:e6076381e75d076c9f958c25b1a633d774d1814e",
+        "reason": "触发黑名单事件"
+    },
+    {
+        "license": "license2:0ba242b3415cf4f6e96435862f11bfac08f5c890",
+        "reason": "触发黑名单事件"
     }
 ]
