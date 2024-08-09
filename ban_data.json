@@ -110,5 +110,21 @@
     {
         "license": "license2:0ba242b3415cf4f6e96435862f11bfac08f5c890",
         "reason": "触发黑名单事件"
+    },
+    {
+        "license": "license:6bac4eb00d501c5ff636feeea02c31d34b826d84",
+        "reason": "刷钱"
+    },
+    {
+        "license": "license2:6bac4eb00d501c5ff636feeea02c31d34b826d84",
+        "reason": "刷钱"
+    },
+    {
+        "license": "fivem:8677497",
+        "reason": "刷钱"
+    },
+    {
+        "license": "ip:106",
+        "reason": "刷钱"
     }
 ]
