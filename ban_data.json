@@ -126,5 +126,13 @@
     {
         "license": "ip:106",
         "reason": "刷钱"
+    },
+    {
+        "license": "license:45f185b3c5202a4bcacd7071e098b73131010529",
+        "reason": "刷物品卡物品"
+    },
+    {
+        "license": "license2:bc935a8f450b1a8509aaeef352df5e06aac7e111",
+        "reason": "刷物品卡物品"
     }
 ]
