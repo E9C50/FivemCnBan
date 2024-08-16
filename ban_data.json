@@ -134,5 +134,29 @@
     {
         "license": "license2:bc935a8f450b1a8509aaeef352df5e06aac7e111",
         "reason": "刷物品卡物品"
+    },
+    {
+        "license": "license:1d70a79c48d992e87ee309231e6fb533f1bcffdb",
+        "reason": "刷物品换钱"
+    },
+    {
+        "license": "license:b1f40071dba76fa9abf1e961f17553c19b59d7cb",
+        "reason": "刷物品换钱"
+    },
+    {
+        "license": "license2:1d70a79c48d992e87ee309231e6fb533f1bcffdb",
+        "reason": "刷物品换钱"
+    },
+    {
+        "license": "license2:266c46f1f3f06af53cafab31a9438d697f8c243c",
+        "reason": "刷物品换钱"
+    },
+    {
+        "license": "fivem:14083132",
+        "reason": "刷物品换钱"
+    },
+    {
+        "license": "fivem:14418366",
+        "reason": "刷物品换钱"
     }
 ]
