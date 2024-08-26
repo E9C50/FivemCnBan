@@ -202,5 +202,9 @@
     {
         "license": "license:fcfcb91f32473638e0491743f212653d5d09fe31",
         "reason": "反作弊自动封禁"
+    },
+    {
+        "license": "license:77f514dce7dc19dd3f1e519f25f00b7c26e29ac5",
+        "reason": "反作弊自动封禁"
     }
 ]
