@@ -190,5 +190,13 @@
     {
         "license": "license:446c89a5901fab22ead558ca3b1e932a6e71f677",
         "reason": "刷物品"
+    },
+    {
+        "license": "license:996909a30b2350f952245a666514839464f8517d",
+        "reason": "反作弊自动封禁"
+    },
+    {
+        "license": "license2:996909a30b2350f952245a666514839464f8517d",
+        "reason": "反作弊自动封禁"
     }
 ]
