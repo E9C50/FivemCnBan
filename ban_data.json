@@ -198,5 +198,9 @@
     {
         "license": "license2:996909a30b2350f952245a666514839464f8517d",
         "reason": "反作弊自动封禁"
+    },
+    {
+        "license": "license:fcfcb91f32473638e0491743f212653d5d09fe31",
+        "reason": "反作弊自动封禁"
     }
 ]
