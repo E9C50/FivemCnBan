@@ -214,5 +214,13 @@
     {
         "license": "steam:11000015b84d2e1",
         "reason": "反作弊自动封禁"
+    },
+    {
+        "license": "license:9eb73ce6df137e802ba298ce4fc32acf4ac92e8d",
+        "reason": "反作弊自动封禁"
+    },
+    {
+        "license": "steam:110000154bdc6f0",
+        "reason": "反作弊自动封禁"
     }
 ]
