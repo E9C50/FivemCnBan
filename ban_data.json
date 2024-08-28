@@ -222,5 +222,9 @@
     {
         "license": "steam:110000154bdc6f0",
         "reason": "反作弊自动封禁"
+    },
+    {
+        "license": "license:8f8dd672f74f7bf1806486542608669dc093e96d",
+        "reason": "反作弊自动封禁"
     }
 ]
