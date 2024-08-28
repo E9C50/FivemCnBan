@@ -230,5 +230,13 @@
     {
         "license": "license:6cb456d16661adeb14ce9aa48d46ae93aa81b92c",
         "reason": "反作弊自动封禁"
+    },
+    {
+        "license": "license:22c80e8fe973cca94f9938e457b3e298c32e9196",
+        "reason": "刷枪"
+    },
+    {
+        "license": "license2:22c80e8fe973cca94f9938e457b3e298c32e9196",
+        "reason": "刷枪"
     }
 ]
