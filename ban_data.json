@@ -242,5 +242,9 @@
     {
         "license": "license:579d9167e3b3e78a1148bc1a11de7f5dfba47621",
         "reason": "使用外挂，被反作弊截图"
+    },
+    {
+        "license": "license:41bf1b5ea2c52946bdf9451725487c500ff5946a",
+        "reason": "在服务器刷坦克，被反作弊检测刷取到黑名单车辆，还刷了很多钱（截图较多，发几个代表）"
     }
 ]
