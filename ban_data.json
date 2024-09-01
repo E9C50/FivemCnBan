@@ -250,5 +250,13 @@
     {
         "license": "license:7f784f149265a538b1f056953163ada1245fe6f8",
         "reason": "刷物品"
+    },
+    {
+        "license": "license:6191ba22c1a8d445296ff463534584613b65f359",
+        "reason": "自瞄"
+    },
+    {
+        "license": "license:ac45d95ddb7657ea22c42b67cec1e58aeee0c082",
+        "reason": "自瞄"
     }
 ]
