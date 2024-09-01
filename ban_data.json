@@ -258,5 +258,25 @@
     {
         "license": "license:ac45d95ddb7657ea22c42b67cec1e58aeee0c082",
         "reason": "自瞄"
+    },
+    {
+        "license": "license:9603d47b5d8ac86eb8c76f1d0b0f7b94affe1d4e",
+        "reason": "全部触发黑名单事件，并且全部已经石锤为外挂"
+    },
+    {
+        "license": "license:03eee2140c2d63b23811c7c066dc8168b60a3206",
+        "reason": "全部触发黑名单事件，并且全部已经石锤为外挂"
+    },
+    {
+        "license": "license:221ca5f6b856ca7d47376c9d857b2d86bdc9c20e",
+        "reason": "全部触发黑名单事件，并且全部已经石锤为外挂"
+    },
+    {
+        "license": "license:fa963e4fcd102292d6b6c2b77f1393a5f22bc4c7",
+        "reason": "全部触发黑名单事件，并且全部已经石锤为外挂"
+    },
+    {
+        "license": "license:da692194f211515550fc138762ed490c20d1f5ea",
+        "reason": "全部触发黑名单事件，并且全部已经石锤为外挂"
     }
 ]
