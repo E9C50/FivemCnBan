@@ -282,5 +282,9 @@
     {
         "license": "license:15b99365f9fb95e57c7362d5dbc10f98536c857e",
         "reason": "刚进服就开挂，触发黑名单事件"
+    },
+    {
+        "license": "license:7ebf17ba61b2127fb012f348f773188a812d81ce",
+        "reason": "通过qq宣称自己使用红擎外挂，经过白名单通过表格查询，锁定该名玩家识别码"
     }
 ]
