@@ -278,5 +278,9 @@
     {
         "license": "license:da692194f211515550fc138762ed490c20d1f5ea",
         "reason": "全部触发黑名单事件，并且全部已经石锤为外挂"
+    },
+    {
+        "license": "license:15b99365f9fb95e57c7362d5dbc10f98536c857e",
+        "reason": "刚进服就开挂，触发黑名单事件"
     }
 ]
