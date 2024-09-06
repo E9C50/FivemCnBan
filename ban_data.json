@@ -290,5 +290,9 @@
     {
         "license": "license:f890eb4f917affb24654eb70f86699f79e4c4c07",
         "reason": "触发服务器黑名单事件"
+    },
+    {
+        "license": "license:b94f7d51d2c9d315b9753a5c57423e9282a4c9d5",
+        "reason": "外挂刷物品"
     }
 ]
