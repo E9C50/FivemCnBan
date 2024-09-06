@@ -298,5 +298,9 @@
     {
         "license": "license:fc1a964348ab8f16985cffc1db9e7ea2dfebbe45",
         "reason": "外挂刷物品"
+    },
+    {
+        "license": "license:ccdb3343505a56ebb9fb781aa24f23facc4c6399",
+        "reason": "触发捡垃圾物品事件"
     }
 ]
