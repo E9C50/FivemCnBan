@@ -302,5 +302,9 @@
     {
         "license": "license:ccdb3343505a56ebb9fb781aa24f23facc4c6399",
         "reason": "触发捡垃圾物品事件"
+    },
+    {
+        "license": "license:009bc930e9d6867aa6d4fc17642886bdce68df52",
+        "reason": "触发服务器黑名单事件：Tried to Trigger Safe Event \\(Invalid Token Data \\(1\\)\\): devcore_smokev2:server:AddItem"
     }
 ]
