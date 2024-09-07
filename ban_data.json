@@ -310,5 +310,9 @@
     {
         "license": "license:7dc70eadb781cb8b7fa05d9757df1ef10551d734",
         "reason": "触发服务器黑名单事件"
+    },
+    {
+        "license": "license:50fe8f59665b18f5cba14d8534345bbda5b45bbd",
+        "reason": "利用外挂传送到军械库购买警械卖给市民"
     }
 ]
