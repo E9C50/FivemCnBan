@@ -314,5 +314,9 @@
     {
         "license": "license:50fe8f59665b18f5cba14d8534345bbda5b45bbd",
         "reason": "利用外挂传送到军械库购买警械卖给市民"
+    },
+    {
+        "license": "license:eb0d55d3d28d51a865aa854a4dbee8cec276d437",
+        "reason": "炸服"
     }
 ]
