@@ -326,5 +326,9 @@
     {
         "license": "license:5755c93361e8d5e590c858efcba3da9999100f4e",
         "reason": "使用自瞄脚本"
+    },
+    {
+        "license": "license:e8af6d0651d67de6aa7d3c0a1483aafff0d4a77e",
+        "reason": "使用自瞄脚本，反作弊多次录制自瞄视频，截取一个明显的发"
     }
 ]
