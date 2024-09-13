@@ -330,5 +330,9 @@
     {
         "license": "license:e8af6d0651d67de6aa7d3c0a1483aafff0d4a77e",
         "reason": "使用自瞄脚本，反作弊多次录制自瞄视频，截取一个明显的发"
+    },
+    {
+        "license": "license:0dcfeed9477b5f8f6a976310ae0170d074aea462",
+        "reason": "外挂 "
     }
 ]
