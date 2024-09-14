@@ -338,5 +338,9 @@
     {
         "license": "license:0a386cbff2608f393071847e410299fa52f00892",
         "reason": "触发黑名单事件Tried to Trigger Safe Event \\(Invalid Token Data \\(1\\)\\): inventory:server:UseItemSlot"
+    },
+    {
+        "license": "license:9644d86076fda75c8d454a3f2fc43e35e54a34b1",
+        "reason": "外挂，自己给自己加血"
     }
 ]
