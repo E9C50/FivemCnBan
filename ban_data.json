@@ -342,5 +342,9 @@
     {
         "license": "license:9644d86076fda75c8d454a3f2fc43e35e54a34b1",
         "reason": "外挂，自己给自己加血"
+    },
+    {
+        "license": "license:6390a2fceb0046dc4410b7ade9156fe92ae8292f",
+        "reason": "出席观看"
     }
 ]
