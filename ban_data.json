@@ -346,5 +346,9 @@
     {
         "license": "license:6390a2fceb0046dc4410b7ade9156fe92ae8292f",
         "reason": "出席观看"
+    },
+    {
+        "license": "license:19f5d77458a79ddf15c92f7f810157058cb6eaac",
+        "reason": "使用自瞄"
     }
 ]
