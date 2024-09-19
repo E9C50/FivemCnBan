@@ -350,5 +350,13 @@
     {
         "license": "license:19f5d77458a79ddf15c92f7f810157058cb6eaac",
         "reason": "使用自瞄"
+    },
+    {
+        "license": "license:c7781f0713b9e0bd3f9911d1b246d13a8ecf0c1e",
+        "reason": "使用外挂"
+    },
+    {
+        "license": "license2:c7781f0713b9e0bd3f9911d1b246d13a8ecf0c1e",
+        "reason": "使用外挂"
     }
 ]
