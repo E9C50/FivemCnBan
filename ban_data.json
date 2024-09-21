@@ -358,5 +358,29 @@
     {
         "license": "license2:c7781f0713b9e0bd3f9911d1b246d13a8ecf0c1e",
         "reason": "使用外挂"
+    },
+    {
+        "license": "license:497e2f3a494f1c9c284e68a62b57bc6b69d4b90b",
+        "reason": "使用外挂"
+    },
+    {
+        "license": "license2:2529baf9d476b97d76965dc6ea64888d0a1970d5",
+        "reason": "使用外挂"
+    },
+    {
+        "license": "fivem:9841595",
+        "reason": "使用外挂"
+    },
+    {
+        "license": "discord:1152766241421922455",
+        "reason": "使用外挂"
+    },
+    {
+        "license": "live:914799255951649",
+        "reason": "使用外挂"
+    },
+    {
+        "license": "xbl:2535471617411114",
+        "reason": "使用外挂"
     }
 ]
