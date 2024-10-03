@@ -398,5 +398,13 @@
     {
         "license": "license:69bc42befe43f66e4630100925b4f47c07d1baf7",
         "reason": "使用外挂"
+    },
+    {
+        "license": "license:b163820edd9e4b23c78733ac32ebe0ccfc7807d9",
+        "reason": "外挂，打不死且多次更换小号进入服务器"
+    },
+    {
+        "license": "license:597ee3c9d0a6199a34dc112e7a6a9eb2ac49f77f",
+        "reason": "外挂，打不死且多次更换小号进入服务器"
     }
 ]
